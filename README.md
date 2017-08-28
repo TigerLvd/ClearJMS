@@ -1,1 +1,2 @@
 # ClearJMS
+Clear JMS Queue.
